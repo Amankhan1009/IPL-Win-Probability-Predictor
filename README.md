@@ -52,6 +52,10 @@ Feel free to fork the repository, make improvements, and submit a pull request. 
 ## 📜 License
 This project is licensed under the **MIT License**.
 
+
+## Here is the link foy you to try it --> 
+https://amankhan-iplwinpredictor.streamlit.app/
+
 ---
 🌟 **Enjoy predicting IPL match outcomes!** 🏏
 
